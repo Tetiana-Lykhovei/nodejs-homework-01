@@ -1,0 +1,27 @@
+{
+  "name": "nodejs-homework-01",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "start:dev": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tetiana-Lykhovei/nodejs-homework-01.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tetiana-Lykhovei/nodejs-homework-01/issues"
+  },
+  "homepage": "https://github.com/Tetiana-Lykhovei/nodejs-homework-01#readme",
+  "dependencies": {
+    "nodemon": "^2.0.7",
+    "shortid": "^2.2.16",
+    "yargs": "^17.0.1"
+  }
+}
